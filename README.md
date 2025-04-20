@@ -4,7 +4,7 @@
 # Merhaba 👋, ben Nadir!
 
 <p align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Psikolog+yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la"/>
+  <img src="https://readme-typing-svg.herokuapp.com/demo/?random=true&lines=Psikolog+yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la"/>
 </p>
 
 <p align="center">
