@@ -34,6 +34,7 @@
 </p>
 
 ---
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nadirmermer&theme=radical)
 
 ### 📫 Bana ulaş
 - ✉️ E-posta: nadir@example.com
