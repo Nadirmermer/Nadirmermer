@@ -1,94 +1,97 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
-###
+![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=Nadirmermer&color=blue)
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+# Merhaba 👋, ben Nadir!
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F794C0&center=true&vCenter=true&width=435&lines=Ruh+sağlığı+ve+teknoloji+meraklısıyım;Psikolojik+testleri+dijitalleştiriyorum;Kod+yazarak+dünyayı+iyileştiriyorum+%f0%9f%8c%9f" alt="Typing SVG" />
+</p>
 
-<h1 align="center">hey there 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300" alt="fun gif"/>
+</p>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🧠 Ruh Sağlığı Teknolojilerine Meraklı Bir Psikoloji Öğrencisi
 
-###
+- 🎓 **Bolu Abant İzzet Baysal Üniversitesi** Psikoloji bölümü öğrencisiyim.
+- 🚀 Şu anda **SCID-5-CV** gibi psikolojik testleri dijital ortama aktaran bir uygulama geliştiriyorum.
+- 📈 HTML, JavaScript ve React öğreniyorum.
+- 🤖 Yapay zekayla yazılım geliştirmenin keyfini çıkarıyorum.
+- 🧐 Bazen bilgisayarla konuşmak, insanla konuşmaktan daha kolay geliyor :)
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+## 🎨 Kendimi Tanıtmam Gerekirse:
 
-<h3 align="left">🛠 Language and tools</h3>
+```javascript
+const Nadir = {
+  öğrenci: true,
+  alan: "Psikoloji",
+  ilgiler: ["ruh sağlığı teknolojileri", "psikolojik testler", "web geliştirme"],
+  öğrenilenler: ["HTML", "JavaScript", "React"],
+  gelişen_yetenekler: ["problem çözme", "tasarım odaklı düşünme"]
+};
+```
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="thinking gif"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+---
 
-###
+## 🛠️ Kullandığım Teknolojiler
 
-<h3 align="left">🔥   My Stats :</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" alt="tech-icons" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+## 📁 Öne Çıkan Projeler
 
-###
+### 🧩 SCID-5-CV Dijital Test Sistemi
+Bir ruh sağlığı uzmanının danışanlarına test gönderebildiği, sonuçları sadece uzmanların görebildiği bir sistem.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/scid5-project-demo.gif" width="500"/>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
-###
 
-<p align="left">Hello World!!</p>
+🐍 GitHub Snake
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
+## 📊 GitHub İstatistiklerim
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=radical" alt="stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Nadirmermer&theme=radical" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadirmermer&layout=compact&theme=radical" alt="top langs" />
+</p>
+
+---
+
+## 📬 Bana Ulaş
+
+- ✉️ E-posta: 1nadirmermer@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/nadirmermer](https://linkedin.com/in/nadirmermer)
+
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif">
+</p>
+
+<p align="center">
+  <b>Profilimi ziyaret ettiğin için teşekkür ederim! Görüşmek üzere :)</b>
+</p>
+
