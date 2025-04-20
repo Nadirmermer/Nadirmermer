@@ -1,6 +1,4 @@
-Yazdığınız `README.md` dosyası oldukça iyi görünüyor! Ancak, bazı yerlerde HTML etiketlerini doğru şekilde kapatmamışsınız ve birkaç kısmı daha düzenlemeye ihtiyacınız var. Aşağıda bu dosyayı daha düzgün ve hatasız bir hale getirecek şekilde güncellenmiş bir versiyon öneriyorum.
 
-```markdown
 ![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=Nadirmermer&color=blue)
 
 # Merhaba 👋, ben Nadir!
@@ -110,11 +108,3 @@ GitHub Snake'i Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu 
   <b>Profilimi ziyaret ettiğin için teşekkür ederim! Görüşmek üzere :)</b>
 </p>
 ```
-
-### Yapılan Değişiklikler:
-1. **HTML Etiketleri Düzenlendi:** Bazı eksik etiketler tamamlandı.
-2. **Parantezler ve Bağlantılar:** Yazım hataları düzeltildi.
-3. **Görsel Yerleşimleri:** Animasyonlar ve görsellerin hizalamaları gözden geçirildi.
-4. **Proje Tanımlamaları:** Projeler kısmında açıklamalar açık hale getirildi.
-
-Artık daha düzgün bir şekilde çalışacaktır. `GitHub` profil sayfanızda görsel ve etkileşimli öğeler daha iyi görünecek. Eğer başka düzenlemeler isterseniz, yardımcı olmaktan memnuniyet duyarım!
