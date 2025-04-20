@@ -2,6 +2,14 @@
 
 # Merhaba 👋, ben Nadir!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F794C0&center=true&vCenter=true&width=435&lines=Ruh+sağlığı+ve+teknoloji+meraklısıyım;Psikolojik+testleri+dijitalleştiriyorum;Kod+yazarak+dünyayı+iyileştiriyorum+%f0%9f%8c%9f" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300" alt="fun gif"/>
+</p>
+
 ---
 
 ## 🧠 Ruh Sağlığı Teknolojilerine Meraklı Bir Psikoloji Öğrencisi
@@ -24,41 +32,33 @@ const Nadir = {
   öğrenilenler: ["HTML", "JavaScript", "React"],
   gelişen_yetenekler: ["problem çözme", "tasarım odaklı düşünme"]
 };
-```
+<p align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="thinking gif"/> </p>
+🛠️ Kullandığım Teknolojiler
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" alt="tech-icons" /> </p>
+📁 Öne Çıkan Projeler
+🧩 SCID-5-CV Dijital Test Sistemi
+Bir ruh sağlığı uzmanının danışanlarına test gönderebildiği, sonuçları sadece uzmanların görebildiği bir sistem.
 
----
+<p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/scid5-project-demo.gif" width="500"/> </p>
+🕹️ Mini Eğlence: Yılan Oyunu
+Oyunu Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu izle!
 
-## 🛠️ Kullandığım Teknolojiler
+🐍 GitHub Snake
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
----
+📊 GitHub İstatistiklerim
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=radical" alt="stats" /> <br/> <img src="https://streak-stats.demolab.com/?user=Nadirmermer&theme=radical" alt="streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadirmermer&layout=compact&theme=radical" alt="top langs" /> </p>
+📬 Bana Ulaş
+✉️ E-posta: nadir@example.com
 
-## 🚀 GitHub Snake
+💼 LinkedIn: linkedin.com/in/nadirmermer
 
-![snake gif](https://github.com/Nadirmermer/Nadirmermer/blob/output/github-contribution-grid-snake.gif)
+<details> <summary><b>✨ Rastgele bir alıntı göster</b></summary> <br/>
+"Psikolojiyi teknolojiyle buluşturmak, hem zihinleri hem sistemleri iyileştirmenin yeni yolu olabilir."
 
----
+"Karmaşık bir dünyada, basit kodlar bazen en derin anlaşları yaratır."
 
-## 📊 GitHub İstatistiklerim
+"Sistemin düzeni bozulduğunda, debug etmek gerekebilir - tıpkı hayatta olduğu gibi."
 
-![Nadirmermer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=radical)
-
----
-
-## 📧 Bana Ulaş
-
-- ✉️ E-posta: nadir@example.com  
-- 💼 LinkedIn: [linkedin.com/in/nadirmermer](https://linkedin.com/in/nadirmermer)
-
----
-
-> "Psikolojiyi teknolojiyle buluşturmak, hem zihinleri hem sistemleri iyileştirmenin yeni yolu olabilir."
-
----
-
-Teşekkürler — Profilimi ziyaret ettiğin için! :)
-
+</details>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"> </p> <p align="center"> <b>Profilimi ziyaret ettiğin için teşekkür ederim! Görüşmek üzere :)</b> </p> ```
