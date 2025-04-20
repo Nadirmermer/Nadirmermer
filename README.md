@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Psikolog+yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F794C0&center=true&vCenter=true&width=435&lines=Ruh+sağlığı+ve+teknoloji+meraklısıyım;Psikolojik+testleri+dijitalleştiriyorum;Kod+yazarak+dünyayı+iyileştiriyorum+%f0%9f%8c%9f" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Psikolog+yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la" alt="Typing SVG" />
 </p>
 
 
