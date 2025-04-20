@@ -41,7 +41,7 @@ Bir ruh sağlığı uzmanının danışanlarına test gönderebildiği, sonuçla
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/scid5-project-demo.gif" width="500"/> </p>
 🕹️ Mini Eğlence: Yılan Oyunu
-Oyunu Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu izle!
+GitHub Snake'i Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu izle!
 
 🐍 GitHub Snake
 
