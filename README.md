@@ -14,8 +14,6 @@
   <img src="https://giphy.com/embed/kvvpOh6pRSLAc" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-rigby-mordecai-kvvpOh6pRSLAc" width="300" alt="fun gif"/>
 </p>
 
-
-<iframe src="https://giphy.com/embed/kvvpOh6pRSLAc" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-rigby-mordecai-kvvpOh6pRSLAc">via GIPHY</a></p>
 ---
 
 ## 🧠 Ruh Sağlığı Teknolojilerine Meraklı Bir Psikoloji Öğrencisi
