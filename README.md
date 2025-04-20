@@ -11,9 +11,11 @@
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kyYjhsc3Iwazlzd2dmZ2RtNWUzd21vdDFtbDdwZnVzNXI1M2N1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kvvpOh6pRSLAc/giphy.gif)" width="300" alt="fun gif"/>
+  <img src="https://giphy.com/embed/kvvpOh6pRSLAc" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-rigby-mordecai-kvvpOh6pRSLAc" width="300" alt="fun gif"/>
 </p>
 
+
+<iframe src="https://giphy.com/embed/kvvpOh6pRSLAc" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-network-rigby-mordecai-kvvpOh6pRSLAc">via GIPHY</a></p>
 ---
 
 ## 🧠 Ruh Sağlığı Teknolojilerine Meraklı Bir Psikoloji Öğrencisi
