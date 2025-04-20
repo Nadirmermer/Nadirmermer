@@ -60,8 +60,7 @@ Bir ruh sağlığı uzmanının danışanlarına test gönderebildiği, sonuçla
 
 ---
 
-### 🕹️ Mini Eğlence: Yılan Oyunu
-GitHub Snake'i Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu izle!
+
 
 🐍 GitHub Snake
 
@@ -107,4 +106,4 @@ GitHub Snake'i Oyna! – GitHub katkılarına göre oluşan yılan animasyonunu 
 <p align="center">
   <b>Profilimi ziyaret ettiğin için teşekkür ederim! Görüşmek üzere :)</b>
 </p>
-```
+
