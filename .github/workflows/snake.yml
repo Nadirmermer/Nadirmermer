@@ -27,3 +27,5 @@ jobs:
           author_email: github-actions@github.com
           message: "update contribution snake"
           add: "*.svg *.gif"
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
