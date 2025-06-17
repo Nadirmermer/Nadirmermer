@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Her gün çalışır
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,9 @@ jobs:
             ./github-contribution-grid-snake.svg
             ./github-contribution-grid-snake.gif
 
+      - name: Pull before commit (önce uzak branch'i al)
+        run: git pull origin main --rebase
+
       - name: Push the snake
         uses: EndBug/add-and-commit@v9
         with:
@@ -27,5 +30,3 @@ jobs:
           author_email: github-actions@github.com
           message: "update contribution snake"
           add: "*.svg *.gif"
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
