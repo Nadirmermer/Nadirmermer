@@ -47,12 +47,26 @@ Psikoloji bilimindeki akademik birikimimi, modern yazılım teknolojileriyle (Re
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 Geliştirici İstatistikleri
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=graywhite&hide_border=true&locale=tr" alt="Nadir Mermer GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadirmermer&layout=compact&theme=graywhite&hide_border=true&locale=tr" alt="Top Languages" width="48%" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=graywhite&hide_border=true&locale=tr&count_private=true&include_all_commits=true" height="160" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadirmermer&layout=compact&theme=graywhite&hide_border=true&locale=tr&langs_count=6" height="160" alt="languages" />
+
+</div>
+
+<div align="center">
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nadirmermer&theme=graywhite&hide_border=true&locale=tr&date_format=j%20M%5B%20Y%5D" alt="streak" />
+  
+  <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nadirmermer&bg_color=ffffff&color=555555&line=24292e&point=24292e&area=true&hide_border=true" width="100%" alt="activity graph" />
+
+</div>
 
 ---
 
