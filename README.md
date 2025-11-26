@@ -1,109 +1,77 @@
+<!-- Header Alanı -->
 
-![Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=Nadirmermer&color=blue)
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0d1117%26height%3D200%26section%3Dheader%26text%3DNadir%2520Mermer%26fontSize%3D70%26fontColor%3Dffffff%26fontAlignY%3D35" alt="Header" />
 
-# Merhaba 👋, ben Nadir!
+<h3>Psikoloji Lisans Öğrencisi & Yazılım Geliştirici</h3>
 
-<p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com/demo/?random=true&lines=Psikolog+yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la](https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Psikolog-yaz%C4%B1l%C4%B1mc%C4%B1+(%C5%9F%C3%BCpheli);Yapay+zeka+olmasa+ne+bok+yerdik+la)"/>
-</p>
+<!-- Typing SVG: Dinamik Yazı -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300" alt="fun gif"/>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DMontserrat%26weight%3D500%26size%3D24%26duration%3D3000%26pause%3D1000%26color%3D3F8CFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DPsikoloji%2Bve%2BTeknoloji%2BEntegrasyonu%3BSCID-5-CV%2BDijitalle%25C5%259Ftirme%3BFrontend%2BDevelopment%2B(React)%3BRuh%2BSa%25C4%259Fl%25C4%25B1%25C4%259F%25C4%25B1%2BTeknolojileri" alt="Typing SVG" />
+</a>
+</div>
 
----
+<div align="center">
+<a href="https://nadirmermer.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-nadirmermer.com-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Website"/>
+</a>
+<a href="mailto:1nadirmermer@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-1nadirmermer%40gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+<a href="https://www.google.com/search?q=https://instagram.com/nadir.mermer" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%40nadir.mermer-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram"/>
+</a>
+</div>
 
-## 🧠 Ruh Sağlığı Teknolojilerine Meraklı Bir Psikoloji Öğrencisi
+👨‍💻 Hakkımda
 
-- 🎓 **Bolu Abant İzzet Baysal Üniversitesi** Psikoloji bölümü öğrencisiyim.
-- 🚀 Şu anda **SCID-5-CV** gibi psikolojik testleri dijital ortama aktaran bir uygulama geliştiriyorum.
-- 📈 HTML, JavaScript ve React öğreniyorum.
-- 🤖 Yapay zekayla yazılım geliştirmenin keyfini çıkarıyorum.
-- 🧐 Bazen bilgisayarla konuşmak, insanla konuşmaktan daha kolay geliyor :)
+Merhaba, ben Nadir Mermer. Bolu Abant İzzet Baysal Üniversitesi Psikoloji bölümü öğrencisiyim.
 
----
+Akademik kariyerimi teknolojiyle birleştirerek, PsyTech (Psikoloji Teknolojileri) alanında ürünler geliştirmeyi hedefliyorum. Geleneksel psikolojik test ve envanter süreçlerini dijitalleştirerek, uzmanlar için daha erişilebilir ve veri odaklı çözümler sunmak üzerine çalışıyorum.
 
-## 🎨 Kendimi Tanıtmam Gerekirse:
+Şu anda aktif olarak klinik değerlendirme araçlarının (SCID-5-CV vb.) web tabanlı adaptasyonları üzerine projeler geliştiriyorum.
 
-```javascript
-const Nadir = {
-  öğrenci: true,
-  alan: "Psikoloji",
-  ilgiler: ["ruh sağlığı teknolojileri", "psikolojik testler", "web geliştirme"],
-  öğrenilenler: ["HTML", "JavaScript", "React"],
-  gelişen_yetenekler: ["problem çözme", "tasarım odaklı düşünme"]
+const Developer = {
+    name: "Nadir Mermer",
+    education: "Bolu Abant İzzet Baysal University - Psychology",
+    focus: ["Health Tech", "Psychometrics", "Frontend Development"],
+    current_stack: ["React", "Firebase", "Tailwind CSS"],
+    mission: "Psikolojik süreçleri dijital çözümlerle optimize etmek."
 };
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300" alt="thinking gif"/>
-</p>
-
----
-
-## 🛠️ Kullandığım Teknolojiler
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,git,github,vscode" alt="tech-icons" />
-</p>
-
----
-
-## 📁 Öne Çıkan Projeler
-
-### 🧩 SCID-5-CV Dijital Test Sistemi
-Bir ruh sağlığı uzmanının danışanlarına test gönderebildiği, sonuçları sadece uzmanların görebildiği bir sistem.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/scid5-project-demo.gif" width="500"/>
-</p>
-
----
 
 
+🛠️ Teknik Yetkinlikler
 
-🐍 GitHub Snake
+<div align="left">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,firebase,git,github,vscode,figma%26perline%3D9" alt="Tech Stack" />
+</div>
 
----
+🚀 Devam Eden Projeler
 
-## 📊 GitHub İstatistiklerim
+Proje
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadirmermer&show_icons=true&theme=radical" alt="stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nadirmermer&theme=radical" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadirmermer&layout=compact&theme=radical" alt="top langs" />
-</p>
+Açıklama
 
----
+Teknoloji
 
-## 📬 Bana Ulaş
+SCID-5-CV Dijital
 
-- ✉️ E-posta: nadir@example.com  
-- 💼 LinkedIn: [linkedin.com/in/nadirmermer](https://linkedin.com/in/nadirmermer)
+DSM-5 Yapılandırılmış Klinik Görüşme formunun dijital adaptasyonu. Uzmanların tanı sürecini hızlandıran ve raporlayan bir web uygulaması.
 
----
+React, Firebase
 
-<details>
-<summary><b>✨ Rastgele bir alıntı göster</b></summary>
-<br/>
+PsyTech Blog
 
-> "Psikolojiyi teknolojiyle buluşturmak, hem zihinleri hem sistemleri iyileştirmenin yeni yolu olabilir."
+Psikoloji ve yapay zeka kesişimindeki makalelerin yer aldığı kişisel blog projesi.
 
-> "Karmaşık bir dünyada, basit kodlar bazen en derin anlaşları yaratır."
+Next.js
 
-> "Sistemin düzeni bozulduğunda, debug etmek gerekebilir - tıpkı hayatta olduğu gibi."
+📊 GitHub İstatistikleri
 
-</details>
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNadirmermer%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="Nadir's Github Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNadirmermer%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" alt="Top Languages" />
+</div>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif">
-</p>
-
-<p align="center">
-  <b>Profilimi ziyaret ettiğin için teşekkür ederim! Görüşmek üzere :)</b>
-</p>
-
+<!-- Footer -->
